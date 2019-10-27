@@ -34,3 +34,4 @@ public class MemoryCard : MonoBehaviour {
 		
 	}
 }
+//added new comment

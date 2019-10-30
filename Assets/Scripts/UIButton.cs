@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//нинзя-комментарий
 public class UIButton : MonoBehaviour {
 
 	[SerializeField] private GameObject targetObject;

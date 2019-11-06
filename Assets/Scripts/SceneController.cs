@@ -9,6 +9,7 @@ public class SceneController : MonoBehaviour {
 	public const int gridCols = 4;
 	public const float offsetX = 3f;
 	public const float offsetY = 4f;
+
 	[SerializeField] private MemoryCard originalCard;
 	[SerializeField] private Sprite[] images;
 	[SerializeField] private TextMesh scoreLabel;
